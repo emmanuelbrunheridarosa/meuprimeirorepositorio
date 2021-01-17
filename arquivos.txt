@@ -2,3 +2,6 @@ x = 20
 y = 90
 
 alterando o arquivo
+
+void g(){ //função do bob
+}
