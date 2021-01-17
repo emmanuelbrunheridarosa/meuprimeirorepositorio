@@ -1,1 +1,3 @@
-///funções originais 
+// novas funções
+int getsize(){
+}
